@@ -1,4 +1,3 @@
-﻿# GST-Ready-Invoice-Expense-Tracker
 # GST-Ready Invoice & Expense Tracker
 
 **Simplify your freelance finances with automated GST invoicing and expense management.**
